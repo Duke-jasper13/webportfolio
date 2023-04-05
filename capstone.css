@@ -1,0 +1,26 @@
+html {
+	scroll-behavior: smooth;
+}
+
+p {
+	font-family: "Lucida Console", monospace;
+}
+
+h2 {
+	font-family: "Lucida Console", monospace;
+}
+
+h3 {
+	font-family: "Courier New", monospace;
+}
+
+a{
+	font-family: "Courier New", monospace;
+}
+
+footer #foot{
+
+	text-align: left;
+}
+
+
